@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+!+I'm+Abolfazl)](https://git.io/typing-svg)
-![](https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif)
+<!-- ![](https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif) -->
 
  ## Github:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbolfazlPanahiazar&theme=dark)](https://git.io/streak-stats)
