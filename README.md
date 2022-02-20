@@ -3,8 +3,8 @@
 
  ## Github:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbolfazlPanahiazar&theme=dark)](https://git.io/streak-stats)
-![AbolfazlPanahiazar](https://github-readme-stats.vercel.app/api?username=AbolfazlPanahiazar&show_icons=true&count_private=true)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AbolfazlPanahiazar&left_color=orange&right_color=blue)
+![AbolfazlPanahiazar](https://github-readme-stats.vercel.app/api?username=AbolfazlPanahiazar&show_icons=true&count_private=true&theme=dark)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=AbolfazlPanahiazar&left_color=orange&right_color=blue) -->
 
  ## Contact:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230073AF.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazlpanahiazar)
