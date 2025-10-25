@@ -1,5 +1,4 @@
 <h1>Hi, I'm Abolfazl</h1>
-<h3>Software Developer</h3>
 
 📫 Reach me: **abolfazlpanahiazar@gmail.com**
 
