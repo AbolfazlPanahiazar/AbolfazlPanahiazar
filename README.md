@@ -1,14 +1,118 @@
-<h1>Hi, I'm Abolfazl</h1>
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Abolfazl Panahiazar — Full-Stack Software Developer, Web3 Engineer and Technical Founder" />
+</div>
 
-📫 Reach me: **abolfazlpanahiazar@gmail.com**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+production-grade+full-stack+systems;Engineering+Web3+infrastructure+and+on-chain+products;Integrating+AI+into+real+business+workflows;Turning+technical+ideas+into+working+products" alt="Animated typing introduction" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlpanahiazar&show_icons=true&locale=en&layout=compact" alt="abolfazlpanahiazar" /></p>
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abolfazlpanahiazar&" alt="abolfazlpanahiazar" /></p>
+I am a full-stack software developer and technical founder with 5+ years of experience building web, mobile, fintech, Web3, and automation systems.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+I work across product interfaces, backend architecture, databases, infrastructure, integrations, and deployment. My primary stack is TypeScript, React, Next.js, Node.js, and NestJS, with a growing focus on Web3 systems, AI integrations, agents, and workflow automation.
 
+```ts
+const abolfazl = {
+  role: "Full-Stack Software Developer",
+  mindset: "Engineer the system. Validate the product. Ship the result.",
+  domains: ["Web Platforms", "Fintech", "Web3", "AI", "Automation"],
+  focus: ["Reliable Architecture", "Product Engineering", "Technical Entrepreneurship"],
+};
+```
 
+## Current Focus
 
+- Building scalable full-stack products from architecture through deployment
+- Engineering Web3 applications, wallet flows, on-chain data, and trading infrastructure
+- Integrating LLMs, AI agents, and structured automation into production workflows
+- Designing secure backend systems involving authentication, queues, storage, payments, and key management
+- Converting technical opportunities into usable and commercially viable products
 
+## Technical Stack
+
+### Full Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,html,css,tailwind&perline=10" alt="Full-stack technologies" />
+</p>
+
+### Backend, Data and Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq,docker,git,github,linux,nginx&perline=9" alt="Backend and infrastructure technologies" />
+</p>
+
+### Web3, AI and Automation
+
+<p>
+  <img src="https://img.shields.io/badge/Ethereum-111827?style=for-the-badge&logo=ethereum&logoColor=8B9EFF" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Solidity-111827?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/ethers.js-111827?style=for-the-badge&logo=ethereum&logoColor=38BDF8" alt="ethers.js" />
+  <img src="https://img.shields.io/badge/AI_Integration-111827?style=for-the-badge&logo=openai&logoColor=22C55E" alt="AI integration" />
+  <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=22C55E" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Workflow_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=38BDF8" alt="Workflow automation" />
+</p>
+
+## Engineering Principles
+
+- Correctness before cleverness
+- Product requirements translated into explicit technical boundaries
+- Security and financial precision treated as architecture, not cleanup
+- Maintainable systems over short-lived complexity
+- Automation for repeatable work; human judgment for consequential decisions
+- Ship, observe, learn, and improve
+
+## GitHub Signals
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbolfazlPanahiazar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=22C55E&ring_color=38BDF8" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbolfazlPanahiazar&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0369A1&text_color=1F2937&icon_color=15803D&ring_color=0369A1" alt="Abolfazl's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AbolfazlPanahiazar&hide_border=true&background=0D1117&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=AbolfazlPanahiazar&hide_border=true&background=FFFFFF&ring=0369A1&fire=15803D&currStreakLabel=0369A1&sideLabels=1F2937&dates=6B7280&currStreakNum=1F2937&sideNums=1F2937" alt="Abolfazl's contribution streak" />
+  </picture>
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbolfazlPanahiazar&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=22C55E&area=true&area_color=0EA5E9&hide_border=true" alt="Abolfazl's recent GitHub activity graph" />
+</div>
+
+## 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Abolfazl's animated 3D contribution calendar" />
+</div>
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+    <img src="./dist/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake" />
+  </picture>
+</div>
+
+## Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abolfazlpanahiazar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio.panahiazar.com/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:abolfazlpanahiazar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Engineering systems. Building products. Creating leverage.</sub>
+</div>

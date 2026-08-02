@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Abolfazl Panahiazar</title>
+  <desc id="desc">Animated profile banner for a full-stack software developer, Web3 engineer and technical founder.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.55" stop-color="#0b1728" />
+      <stop offset="1" stop-color="#08131d" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" />
+      <stop offset="1" stop-color="#22c55e" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.23" />
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#334155" stroke-width="1" stroke-opacity="0.24" />
+    </pattern>
+    <filter id="textGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .route { stroke-dasharray: 8 12; animation: route 9s linear infinite; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.8s ease-in-out infinite; }
+    .pulse.delay-one { animation-delay: .8s; }
+    .pulse.delay-two { animation-delay: 1.6s; }
+    .scan { animation: scan 6s ease-in-out infinite; }
+    .cursor { animation: blink 1s steps(2, end) infinite; }
+    @keyframes route { to { stroke-dashoffset: -200; } }
+    @keyframes pulse { 0%, 100% { opacity: .45; transform: scale(.8); } 50% { opacity: 1; transform: scale(1.35); } }
+    @keyframes scan { 0%, 100% { transform: translateY(-24px); opacity: 0; } 15%, 85% { opacity: .48; } 50% { transform: translateY(330px); opacity: .25; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .route, .pulse, .scan, .cursor { animation: none; } }
+  </style>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)" />
+  <rect width="1200" height="360" rx="24" fill="url(#grid)" />
+  <ellipse cx="905" cy="170" rx="330" ry="250" fill="url(#glow)" />
+
+  <g fill="none" stroke="#38bdf8" stroke-width="1.4" stroke-opacity="0.45">
+    <path class="route" d="M690 77C780 77 782 134 870 134S975 83 1088 83" />
+    <path class="route" d="M650 204C755 204 767 268 865 268s112-78 231-78" />
+    <path class="route" d="M742 311c61-85 130-111 203-74 59 30 96 8 153-42" />
+  </g>
+
+  <g>
+    <circle class="pulse" cx="690" cy="77" r="5" fill="#38bdf8" />
+    <circle class="pulse delay-one" cx="870" cy="134" r="6" fill="#22c55e" />
+    <circle class="pulse delay-two" cx="1088" cy="83" r="5" fill="#38bdf8" />
+    <circle class="pulse delay-two" cx="650" cy="204" r="5" fill="#22c55e" />
+    <circle class="pulse" cx="865" cy="268" r="6" fill="#38bdf8" />
+    <circle class="pulse delay-one" cx="1096" cy="190" r="5" fill="#22c55e" />
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="72" y="92" fill="#64748b" font-size="15" font-family="JetBrains Mono, Consolas, monospace" letter-spacing="2">SYSTEM / BUILDER / FOUNDER</text>
+    <text x="68" y="162" fill="#f8fafc" font-size="51" font-weight="750" letter-spacing="-1.2">ABOLFAZL PANAHIAZAR</text>
+    <rect x="70" y="184" width="470" height="3" rx="2" fill="url(#accent)" />
+    <text x="70" y="228" fill="#cbd5e1" font-size="23" font-weight="520">Full-Stack Software Developer</text>
+    <text x="70" y="265" fill="#38bdf8" font-size="18" font-family="JetBrains Mono, Consolas, monospace">Web3 Systems · AI Integration · Automation</text>
+    <text x="70" y="312" fill="#94a3b8" font-size="15" font-family="JetBrains Mono, Consolas, monospace">$ build --from architecture --to product<tspan class="cursor" fill="#22c55e">_</tspan></text>
+  </g>
+
+  <g transform="translate(925 150)" fill="none" filter="url(#textGlow)">
+    <polygon points="0,-72 63,-36 63,36 0,72 -63,36 -63,-36" stroke="url(#accent)" stroke-width="2" />
+    <polygon points="0,-48 41,-24 41,24 0,48 -41,24 -41,-24" stroke="#38bdf8" stroke-opacity="0.55" />
+    <circle r="13" fill="#0b1728" stroke="#22c55e" stroke-width="2" />
+    <path d="M0-72V-48M63-36L41-24M63 36L41 24M0 72V48M-63 36L-41 24M-63-36L-41-24" stroke="#64748b" />
+  </g>
+
+  <rect class="scan" x="18" y="0" width="1164" height="2" fill="#38bdf8" opacity="0.35" />
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#334155" stroke-opacity="0.7" />
+</svg>
