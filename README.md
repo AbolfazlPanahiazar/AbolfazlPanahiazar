@@ -36,44 +36,6 @@ Currently working on:
 
 ---
 
-## Web3
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&perline=10" />
-
-</div>
-
-Blockchain technologies and systems:
-
-- Ethereum ecosystem
-- Smart contracts
-- Wallet integrations
-- Transaction flows
-- EVM-based applications
-- Blockchain APIs
-
----
-
-## AI & Automation
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,openai&perline=10" />
-
-</div>
-
-Building with:
-
-- Large Language Models
-- AI-powered workflows
-- Agent-based automation
-- API integrations
-- Process automation
-- Developer tooling
-
----
-
 ## Engineering Principles
 
 - Build systems that are reliable and maintainable
@@ -85,14 +47,6 @@ Building with:
 ---
 
 ## GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbolfazlPanahiazar&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlPanahiazar&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
 
 <br/>
 
