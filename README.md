@@ -30,7 +30,7 @@ Currently working on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,postgres,mongodb,redis,rabbitmq,docker,git,github,python,solidity,ethereum,graphql,linux,aws&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nextjs,nodejs,nestjs,express,postgres,mongodb,mysql,redis,rabbitmq,docker,git,github,python,solidity,prisma,graphql,linux,aws,cpp,cypress,jest,nginx,obsidian,threejs,ubuntu&perline=10" />
 
 </div>
 
