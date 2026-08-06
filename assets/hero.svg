@@ -62,7 +62,7 @@
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <text x="72" y="92" fill="#64748b" font-size="15" font-family="JetBrains Mono, Consolas, monospace" letter-spacing="2">SYSTEM / BUILDER / FOUNDER</text>
+    <text x="72" y="92" fill="#64748b" font-size="15" font-family="JetBrains Mono, Consolas, monospace" letter-spacing="2">PLANNER / BUILDER / FOUNDER</text>
     <text x="68" y="162" fill="#f8fafc" font-size="51" font-weight="750" letter-spacing="-1.2">ABOLFAZL PANAHIAZAR</text>
     <rect x="70" y="184" width="470" height="3" rx="2" fill="url(#accent)" />
     <text x="70" y="228" fill="#cbd5e1" font-size="23" font-weight="520">Full-Stack Software Developer</text>
