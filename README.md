@@ -80,4 +80,8 @@ Currently working on:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
+<a href="mailto://abolfazlpanahiazar@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </div>
